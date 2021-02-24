@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Joseris Indriago (Android Developer)👋
 
 #### where to find me
 - [Twitter](https://twitter.com/isabel29586055)
