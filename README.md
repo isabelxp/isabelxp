@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joseris Indriago
 #### I am Android Developer
-![I am Android Developer](https://drive.google.com/file/d/1mml9cUQnxQ0uUGAqZuzgQZY7D3oUDDSW/view?usp=sharing)
+![I am Android Developer](http://drive.google.com/uc?export=view&id=1mml9cUQnxQ0uUGAqZuzgQZY7D3oUDDSW)
 
 
 Skills: Java / Kotlin / 
