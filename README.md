@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joseris Indriago
 #### I am Android Developer
-![I am Android Developer](https://i0.wp.com/gentleninja.com/blog/wp-content/uploads/2016/04/android-app-banner-1.jpg?ssl=1)
+![I am Android Developer](https://drive.google.com/file/d/1mml9cUQnxQ0uUGAqZuzgQZY7D3oUDDSW/view?usp=sharing)
 
 
 Skills: Java / Kotlin / 
